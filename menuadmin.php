@@ -8,7 +8,7 @@ if($_SESSION["emailadmin"]!="" AND $_SESSION["passwordadmin"]!=""){
 <!-- saved from url=(0045)http://localhost/aplikasi_kas/admin/index.php -->
 <html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><!-- BEGIN HEAD--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <title>Toko Baju Muslim | AR. Hidayat Putra Collection</title>
+    <title>administrasi produksi</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<meta content="" name="description">
 	<meta content="" name="author">
