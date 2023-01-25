@@ -1,0 +1,9 @@
+<?php
+session_start();
+unset($_SESSION["emailadmin"]);
+unset($_SESSION["fotoadmin"]);
+unset($_SESSION["namaadmin"]);
+unset($_SESSION["passwordadmin"]);
+unset($_SESSION["hakakses"]);
+header('Location:index.php');
+?>
